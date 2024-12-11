@@ -1,0 +1,37 @@
+.header{
+    text-align:center;
+    font-size:32px;
+   background-color:white;
+    font-style:unset;
+    background-color:white;
+}
+body{
+    background-color:blue;
+}
+.content{
+    text-align:center;
+    color:black;
+    background-color:white;
+
+}
+table{
+    background-color:white;
+    margin-left:23%;
+}
+li{
+    Background-color:white;
+    text-align:center;
+}
+h1{
+    text-align:center;
+}
+p{
+    text-align:center;
+    background-color: white;
+}
+img{
+    margin-left:1%;
+}
+h1{
+    background-color:white;
+}
